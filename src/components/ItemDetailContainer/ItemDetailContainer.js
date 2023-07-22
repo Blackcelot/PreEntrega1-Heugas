@@ -20,7 +20,7 @@ const ItemDetailContainer = () => {
   return (
     <>
       <div>
-        <img width={600} src={product.img} alt="imagen"></img>
+        <img width={550} src={product.img} alt="imagen"></img>
       </div>
       <div>
         <h2>{product.title}</h2>
